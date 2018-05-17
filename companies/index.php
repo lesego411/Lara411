@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>DataTables JSON sample using Material Design</title>
+  <title>Pulze</title>
   
   
   <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css'>
@@ -20,7 +20,7 @@
   <div id="admin" class="col s12">
     <div class="card material-table">
       <div class="table-header">
-        <span class="table-title">Companies  Assets</span>
+        <span class="table-title">Pulze Companies  Assets</span>
         <div class="actions">
           <a href="#add_users" class="modal-trigger waves-effect btn-flat nopadding"><i class="material-icons">person_add</i></a>
           <a href="#" class="search-toggle waves-effect btn-flat nopadding"><i class="material-icons">search</i></a>
